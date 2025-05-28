@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @QuieType
+This isn't my main account. It is not associated with some of my other projects.
 - 👀 I’m interested in coding 2.5D and other games, and playing them, even if others made them.
 - 🌱 I’m currently learning Excalibur game engine.
 - 📫 How to reach me: typeofquiet@gmail.com
